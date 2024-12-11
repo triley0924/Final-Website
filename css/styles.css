@@ -2,26 +2,26 @@
 /*
    sample start file for final project - educational use only
    
-   Author:   
-   Date:     
+   Author:   Tyler Riley
+   Date:     12-1-24
    
   
 
 */
 
 * {
-    margin: 10; 
-    padding: 10;
+    margin: 0px; 
+    padding: 0px;
 }
 
 body {
     font-size: 1.1em;
     font-family: Arial, Helvetica, sans-serif;
-	background-color: white;
+	background-color: navy;
 }
 
 #container {
-    width: 930px;
+    width: 960px;
     border-width: 1px;
     margin: 0 auto;
     background-color: white;
